@@ -1,3 +1,3 @@
 # PythonAssignment
 PythonAssignment
-Name:Khushi Mharajan
+Name:Khushi Maharjan
